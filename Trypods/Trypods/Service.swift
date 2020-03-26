@@ -13,6 +13,9 @@ public class Service {
         
     }
     public static func doSomething() -> String {
-        return "testing"
+        return "testingvvvvvvvvv"
+    }
+    public static func doSomething1() -> String {
+        return "one more service"
     }
 }
